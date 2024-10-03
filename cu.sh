@@ -6,4 +6,5 @@ sudo cp kirugás.sh /usr/bin/kirugas
 sleep 1
 echo "Letöltve."
 sudo apt install wireless-tools
+sudo apt install aircrack-ng
 kirugas
