@@ -7,4 +7,5 @@ sleep 1
 echo "Letöltve."
 sudo apt install wireless-tools
 sudo apt install aircrack-ng
+read
 kirugas
